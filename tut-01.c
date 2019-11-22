@@ -17,6 +17,7 @@ int main(){
     printf("part=%d\n",part);
 
     int asfdas=11;
+    int a=12;
  /*   printf("\nchar:\n");
     char c;//A,B,C
 
