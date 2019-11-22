@@ -16,11 +16,6 @@ int main(){
     printf("div=%f\n",div);
     printf("part=%d\n",part);
 
-    cout<<"C++ print\n";
-    cout<<"sum="<<sum<<"\n";
-    cout<<"diff="<<diff<<"\n";
-    cout<<"div="<<div<<"\n";
-    cout<<"part"<<part<<"\n";
     return 0;
 }
 //sum=4
